@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Game Studio Company</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<!-- Navigation Bar -->
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a class="navbar-brand" href="#">Game Studio Company</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="#">Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Games</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Contact</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+	<!-- Header Section -->
+	<div class="jumbotron">
+		<h1>Game Studio Company</h1>
+		<p>We create fun and exciting games for everyone to enjoy!</p>
+		<a href="#" class="btn btn-primary btn-lg">Learn More</a>
+	</div>
+
+	<!-- About Section -->
+	<div class="container">
+		<h2>About Us</h2>
+		<p>We are a game studio company that specializes in creating high-quality games that are fun and engaging for all types of players. Our team of talented developers and designers work tirelessly to bring you the best gaming experiences possible.</p>
+	</div>
+
+	<!-- Games Section -->
+	<div class="container-fluid bg-light">
+		<h2>Our Games</h2>
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="card">
+					<div class="card-body">
+						<h4 class="card-title">Game 1</h4>
+						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<a href="#" class="btn btn-primary">Play Now</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="card">
+					<div class="card-body">
+						<h4 class="card-title">Game 2</h4>
+						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<a href="#" class
